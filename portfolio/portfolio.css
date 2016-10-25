@@ -5,7 +5,7 @@ body{
 	background-image: url('images_for_portfolio/background2.jpg');
 	background-repeat:no-repeat;
 	background-size:cover;
-
+	text-align: center;
 
 h1 {
 	font-size: 1.3em;
@@ -24,3 +24,6 @@ th {
 	color: #ffffff;
 	background-color: #003366;
 }
+
+
+
